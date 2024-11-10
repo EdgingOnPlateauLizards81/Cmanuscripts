@@ -1,4 +1,4 @@
-# VikasCode
+# First github Commit lol... ⊂(◉‿◉)つ
 
 ### Algorithm to Print Fibonacci Series up to n Terms
 1. **Start**
